@@ -1,7 +1,7 @@
 # Pose-Estimator
 Pose Estimation with OpenCV & MediaPipe
 
-I just wrapped up the initial version of a Basic Pose Estimation System using Python, OpenCV, and MediaPipe. This project captures human body landmarks in real-time through a webcam and calculates joint angles — a fundamental step toward building more advanced applications like fitness trackers, gesture-controlled interfaces, or rehab monitoring tools.
+Basic Pose Estimation System using Python, OpenCV, and MediaPipe. This project captures human body landmarks in real-time through a webcam and calculates joint angles — a fundamental step toward building more advanced applications like fitness trackers, gesture-controlled interfaces, or rehab monitoring tools.
 
 🔍 What it does:
 
